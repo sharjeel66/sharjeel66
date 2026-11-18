@@ -1,6 +1,6 @@
 ### Hi, I'm Sharjeel
 
-Independent developer from Pakistan. I build products end to end: web, Android, the backend, and the server they run on. I'm learning in public while I do it.
+Software developer from Pakistan. I build products end to end: web, Android, the backend, and the server they run on. I'm learning in public while I do it.
 
 #### 🔨 Building now
 
